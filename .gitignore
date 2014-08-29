@@ -1,0 +1,9 @@
+bin
+obj
+packages
+*.suo
+*.user
+*.dbmdl
+*.schemaview
+*.orig-rdn
+*.crunchsolution.cache
